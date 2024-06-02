@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751346290772",
+    "project_id": "skyline-flashcards",
+    "storage_bucket": "skyline-flashcards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751346290772:android:a623790eb9c029e3275dc1",
+        "android_client_info": {
+          "package_name": "com.example.skyline_flashcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751346290772-6o79hhullpi6hagvtkdn1sqmqo4hfrd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCo8N5-jOE_nWjJXEQ7tpggBWleBwyt_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751346290772-6o79hhullpi6hagvtkdn1sqmqo4hfrd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
